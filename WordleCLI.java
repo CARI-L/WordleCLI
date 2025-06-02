@@ -19,6 +19,8 @@ import java.util.ArrayList;
 import java.io.File;
 import java.io.FileNotFoundException;  
 import java.util.Scanner; 
+import com.diogonunes.jcolor.Ansi;
+import static com.diogonunes.jcolor.Attribute.*;
 
 
 public class WordleCLI

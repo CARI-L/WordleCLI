@@ -12,7 +12,6 @@ Entering "q" at any time quits the program.
 
 ## Coming Soon
 
-- Colorized output
 - Screen Refresh
 - Main Menu
 - Score Stats saver/viewer
@@ -24,3 +23,6 @@ Entering "q" at any time quits the program.
     - Clear Save Data
     - View Credits
 
+## Credits
+
+This project uses the JColor Library
