@@ -6,7 +6,8 @@ The classic word game, playable on a **Command Line Interface!**
 ## Description
 
 This is a low-tech, simple version of the game Wordle! This version is playable on any command line interface.  
-Entering "q" at any time quits the program.  
+Entering "q" at any time quits the program. Enter a 5-letter word, and begin playing Wordle! Any invalid input  
+(such as non-English words) are bounced back, and not counted!  
 
 **CONTENT WARNING: THIS VERSION CONTAINS ADULT LANGUAGE! ABILITY TO TOGGLE COMING SOON!**
 
