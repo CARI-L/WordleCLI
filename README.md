@@ -25,4 +25,4 @@ Entering "q" at any time quits the program.
 
 ## Credits
 
-This project uses [JColor](https://github.com/dialex/JColor "https://github.com/dialex/JColor") by dialex (Diogo Nunes)
+This project uses [JColor](https://github.com/dialex/JColor "https://github.com/dialex/JColor") by [dialex](https://github.com/dialex "https://github.com/dialex") (Diogo Nunes)
