@@ -1,17 +1,3 @@
-/*
-A simple wordle game, played in a console
-For testing wordle algorithm and logic
-or for entertaining CariDev w/out ads
-
-display scheme (ex. 'a'):
-if letter is guessed, was in correct place: "A"
-if letter is guessed, was in incorrect place: "a"
-if letter is guessed, not found in word: "_";
-
-previous guesses are displayed on the screen, with this feedback.
-a bank of letters is shown, also displaying this information. unguessed letters are marked with an asterisk.
-
-*/
 //source: WordleCLI.Java
 //author: CariDev
 
@@ -66,7 +52,7 @@ public class WordleCLI
         System.out.println("========================");
         System.out.println("|| Welcome To Wordle! ||");
         System.out.println("========================");
-        System.out.println("Enter \"q\" to quit");
+        System.out.println("Enter \"q\" at any time to quit");
         
         newGame();
         while (running) 

@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "."
-    ],
-    "java.project.referencedLibraries": [
-        "lib/JColor-5.5.1.jar"
-    ]
-}
